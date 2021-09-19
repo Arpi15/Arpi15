@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arpi15
+- 👋 Hi, I’m Arpita
 - 👀 I’m interested in everything related to data.
 - 🌱 I’m currently learning AWS Machine Learning on Udacity.
 - 💞️ I’m looking to collaborate on Machine Learning and Data Analysis Projects.
